@@ -78,3 +78,7 @@ $AppForm.ShowDialog()
 
 #Garabage Collection
 $AppForm.Dispose()
+
+#Testing Git PUSH
+
+Write-Host "Hello World"
